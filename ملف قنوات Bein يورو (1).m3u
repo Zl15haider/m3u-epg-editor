@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1,تصميم طاقم Sadiq Sport 
+
+#EXTINF:-1,https://t.me/Sadiq_Sport_TV
+
+#EXTINF:-1,BEIN MAX HD1
+http://live2.sawaghost1.xyz/streams_cach/185582.m3u8
+
+#EXTINF:-1,BEIN MAX  HD2
+http://apps3.theoneworld.one:8080/live/mac_142254/134496022963b5e120e3d74/246745.m3u8
+
+#EXTINF:-1,BEIN SPORT MAX HD1
+https://stream.tvpure.net/ch1_720/video.m3u8
+
+#EXTINF:-1,BEIN SPORT MAX HD2
+http://livetvbox.live:8080/live/Nick123/Nick123/350613.m3u8
+
+#EXTINF:-1,BEIN MAX  SD1
+http://live2.sawaghost1.xyz/streams_cach/185560.m3u8
+
+#EXTINF:-1,BEIN MAX SD2
+http://live2.sawaghost1.xyz/streams_cach/185561.m3u8
+
+#EXTINF:-1,Bein Max 1
+http://flusonic-5.platinum-tv.com:80/max_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Bein Max 2
+http://flusonic-5.platinum-tv.com:80/max_2/tracks-v1a1/mono.m3u8
+
+#
